@@ -24,3 +24,28 @@ Se tornar Web Developer
 - Manipulando a D.O.M. com JavaScript
 - Resolvendo Desafio de Código em Javascript
 - Desafios Iniciais Js - Carrefour Web
+
+## Módulo IV - ReactJS
+- Introdução ao ReactJS
+- Desenvolvimento de aplicações para internet com ReactJS
+- Introdução a Redux com ReactJS
+- Desafios Intermediários Js - Carrefour Web Developer
+- Trabalhando com States & Effects no ReactJs
+- Desenvolvendo uma Progressive Web Application com React para mapear os dados
+
+## Módulo V - Java/SpringBoot
+- Introdução ao Ecossistema e Documentação Java
+- Dominando IDEs Java
+- Variáveis, Tipos de Dados e Operadores Matemáticos em Java
+- Entendendo Métodos Java
+- Lógica Condicional e Controle de Fluxos em Java
+- Estruturas de Repetição e Arrays em Java
+- Desafios Iniciais Java - Carrefour Web Developer
+- Programação Orientada a Objetos
+- Debugging Java
+- Tratamento de Exceções em Java
+- Introdução ao framework Spring Boot
+- Simplificando Projetos Java com o Spring Boot
+- Imersão no Spring Framework com SpringBoot
+- Desafios Intermediários Java - Carrefour Web Developer
+- Conhecendo Spring Data JPA na prática com Java
